@@ -1,0 +1,17 @@
+title: Longhair Security Blog
+tagline: Computer Software Student | Cyber Security
+description: 고민중
+url: https://pjiseop.github.io
+baseurl: ""
+lang: ko
+timezone: Asia/Seoul
+github_username: pjiseop
+
+markdown: kramdown
+highlighter: rouge
+permalink: /posts/:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
